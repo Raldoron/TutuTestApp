@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TutuTestApp</string>
+    <string name="schedule">Schedule</string>
+    <string name="about">About app</string>
+
+    <string name="From">Cities From</string>
+    <string name="To">Cities To</string>
+    <string name="hint">Input station</string>
+
+    <string-array name="drawer">
+        <item>@string/schedule</item>
+        <item>@string/about</item>
+    </string-array>
+
+
+</resources>
